@@ -15,9 +15,9 @@ A simple HTML page to practice Git and GitHub
 
 - [x] Create Readme
 - [x] Create index.html
-- [ ] Update index.html
-- [ ] Update Readme
-- [ ] Commit and sync to Github
+- [X] Update index.html
+- [X] Update Readme
+- [X] Commit and sync to Github
 
 ## Contact
 
